@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Karlie</h1>
 <h3 align="center">A passionate full-stack developer/software engineer around AI</h3>
-<h3 align="center">Personal weisite: <a href='https://karliefolio.vercel.app/'>Click to visit</a></h3>
+<h3 align="center">Personal weisite: <a href='https://karliefolio.vercel.app/' target="_blank">Click to visit</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
